@@ -1,0 +1,29 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "CalorieQuest - RPG Fitness Tracker"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "CalorieQuest entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CalorieQuest"
+    },
+    {
+      "name": "permission_activity_motion",
+      "value": "Track your workouts and activity"
+    },
+    {
+      "name": "permission_health_data",
+      "value": "Access health and fitness data for tracking"
+    },
+    {
+      "name": "permission_notification",
+      "value": "Send quest and achievement notifications"
+    }
+  ]
+}
+
